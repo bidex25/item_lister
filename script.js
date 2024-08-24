@@ -8,6 +8,7 @@ filter.addEventListener('keyup', filterItems);
 
 
 function addNewItems(e){
+    //Prevent
     e.preventDefault();
     
 
